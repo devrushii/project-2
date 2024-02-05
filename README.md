@@ -2,4 +2,4 @@
 
 This project was created from local system
 
-created by rushikesh chavan
+Created by Rushikesh Chavan
